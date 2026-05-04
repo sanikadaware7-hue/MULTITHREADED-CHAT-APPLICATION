@@ -42,3 +42,6 @@ Connection Cleanup and Termination
 
 The final step in the lifecycle is handling disconnections. In the ClientHandler, there is a finally block. This is a safety net. If a user closes their app or loses internet, an IOException is triggered. The code then automatically removes that user's PrintWriter from the clientWriters list and closes the socket. This prevents the server from trying to send messages to "ghost" users who are no longer there, keeping the system stable and efficient.
 
+OUTPUT :
+
+<img width="1596" height="1075" alt="Image" src="https://github.com/user-attachments/assets/919c35f8-040b-421a-9892-8c71d34833a4" />
