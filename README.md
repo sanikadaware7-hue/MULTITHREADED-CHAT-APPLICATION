@@ -45,3 +45,5 @@ The final step in the lifecycle is handling disconnections. In the ClientHandler
 OUTPUT :
 
 <img width="1596" height="1075" alt="Image" src="https://github.com/user-attachments/assets/919c35f8-040b-421a-9892-8c71d34833a4" />
+
+<img width="1598" height="1053" alt="Image" src="https://github.com/user-attachments/assets/8646160a-b6a4-445b-97df-00f357c484a3" />
